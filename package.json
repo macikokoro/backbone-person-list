@@ -1,0 +1,14 @@
+{
+  "name": "backbone-user-manager",
+  "version": "0.0.1",
+  "description": "backbone application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backbone"
+  ],
+  "author": "JQ",
+  "license": "MIT"
+}
